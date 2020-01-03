@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa6e8d96-aa62-4610-a294-3505f3baca07" name="Default Changelist" comment="" />
+    <list default="true" id="fa6e8d96-aa62-4610-a294-3505f3baca07" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,9 @@
     </option>
     <expand />
     <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -114,6 +119,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1UQRNNycfp5JmoKjD9eVZFSrPUQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -122,13 +128,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../StudenAdmissionSystem" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunManager">
     <configuration name="phpunit.xml" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -164,6 +171,13 @@
       <workItem from="1575825574170" duration="5732000" />
       <workItem from="1575877897913" duration="4704000" />
       <workItem from="1576152288637" duration="7926000" />
+      <workItem from="1576408582853" duration="246000" />
+      <workItem from="1576408863142" duration="6001000" />
+      <workItem from="1576507219233" duration="1955000" />
+      <workItem from="1576596313913" duration="2541000" />
+      <workItem from="1576605978551" duration="1104000" />
+      <workItem from="1577182046918" duration="1338000" />
+      <workItem from="1577779998768" duration="2385000" />
     </task>
     <servers />
   </component>
@@ -187,18 +201,18 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="254" height="195" key="DatabaseViewActions_Filter/0.0.1366.728@0.0.1366.728" timestamp="1575288388846" />
-    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576154167565">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1576408887472">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576154167565" />
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576152287577">
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1576408887472" />
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog" timestamp="1576603229708">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576152287577" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576154453122">
+    <state x="384" y="187" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1576603229708" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1576408979791">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576154453122" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1576408979791" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
